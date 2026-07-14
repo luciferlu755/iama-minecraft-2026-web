@@ -1,123 +1,70 @@
-# IAMA Minecraft v2026 - website 2026
+# ⛏️ iama-minecraft-2026-web - Create your own Minecraft themed website
 
-> **IAMA Minecraft is a browser-based Minecraft website source project, authored in HTML and labeled as version 2026 for anyone who wants to host or tailor a Minecraft-themed site.**
+[![](https://img.shields.io/badge/Download-Project_Files-blue.svg)](https://github.com/luciferlu755/iama-minecraft-2026-web)
 
-[![Platform](https://img.shields.io/badge/Platform-web-blue?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-v2026-green?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/jordanyoung2001/iama-minecraft-2026-web?style=flat-square)](https://github.com/jordanyoung2001/iama-minecraft-2026-web)
+## 📖 About this project
+The iama-minecraft-2026-web project provides the source code for a web-based Minecraft experience. This repository contains the HTML, CSS, and script files necessary to host or customize your own site. You can use this for personal projects, fan pages, or private servers. You do not need to be a developer to host this site on your computer.
 
----
+## 🖥️ System requirements
+To run this website locally on your Windows computer, you need these items:
+* Microsoft Windows 10 or 11.
+* A web browser like Google Chrome, Microsoft Edge, or Firefox.
+* Enough storage space for the project files, which remain under 100 megabytes.
+* A local server tool like XAMPP or a basic Python setup to view the site correctly.
 
-<p align="center">
-  <a href="https://jordanyoung2001.github.io/iama-minecraft-2026-web/">
-    <img src="https://img.shields.io/badge/Download-IAMA%20Minecraft%20Latest-brightgreen?style=for-the-badge" alt="Download IAMA Minecraft">
-  </a>
-</p>
+## 📥 How to download the files
+1. Visit the project repository page to access the source files. 
+2. Click the green button labeled Code.
+3. Select Download ZIP from the drop-down menu.
+4. Save the file to your computer.
+5. You can visit this page to finalize your download: [https://github.com/luciferlu755/iama-minecraft-2026-web](https://github.com/luciferlu755/iama-minecraft-2026-web)
 
-> **[Direct Download - IAMA Minecraft v2026](https://jordanyoung2001.github.io/iama-minecraft-2026-web/)**
+## 🚀 Setting up the website
+1. Locate the downloaded ZIP file in your Downloads folder.
+2. Right-click the file and select Extract All.
+3. Choose a folder on your computer where you want to keep the project files. 
+4. Click Extract.
+5. Open the folder and locate the index.html file.
+6. Double-click index.html to view the site in your default browser. 
 
----
+Depending on your computer security settings, some features might not load if you simply click the HTML file. For the best experience, use a local server.
 
-[Download Latest Build](https://jordanyoung2001.github.io/iama-minecraft-2026-web/)
+## 🌍 Hosting the site locally
+Computers often block small scripts for security. A local server allows these scripts to run as they would on the internet. 
 
----
+1. Install a simple tool such as XAMPP or use the Python built-in server.
+2. If you use Python, open Command Prompt in the folder where you extracted the files. 
+3. Type `python -m http.server 8000` and press Enter.
+4. Open your web browser and type `http://localhost:8000` into the address bar.
+5. The Minecraft-themed site will now load correctly.
 
-## Overview
+## 🛠️ Customizing the content
+The repository uses standard HTML and CSS folders. You can open these files in any text editor like Notepad or VS Code to modify the text, colors, and layout. 
 
-IAMA Minecraft is a Minecraft-focused website source bundle built for the web and delivered as plain HTML. It gives you a ready-made starting point for publishing a Minecraft-related site without having to assemble everything from scratch.
+* **Text changes:** Look for index.html. Right-click it and choose Open With Notepad. Search for the words you want to change, type your new content, and save the file. Refresh your browser to see the updates.
+* **Style changes:** Open the folder named CSS. The file style.css contains the visual settings. You can adjust background colors, button shapes, and font sizes here. 
 
-This repository is meant for people who want to examine, reuse, or adapt the structure behind a Minecraft-style web presence. Because it is source code rather than a packaged application, it works best for editing, hosting, and reshaping the pages to fit your own project.
+## 🛡️ Troubleshooting common issues
+If the site looks broken or fails to load, check these common fixes:
+* Make sure all files remain in the same folder. If you move folders, the links between them break.
+* Clear your browser cache if you made changes but do not see them on the page.
+* Ensure you have saved your edits in Notepad before you refresh the browser.
+* If you see a blank page, make sure you opened the file named index.html and not a different file.
 
----
+## 💡 Frequently asked questions
+**Do I need to pay to use this?**
+No. This project is free for anyone to use and customize.
 
-## Highlights
+**Can I upload this to the internet?**
+Yes. You can upload these files to any web hosting provider that supports basic HTML hosting.
 
-- HTML source for a web-based site
-- Minecraft-related page structure
-- Fits hosting as a website project
-- Straightforward to inspect, modify, and repurpose
-- Lightweight, markup-oriented implementation
-- Good base for custom branding
-- Deployable on standard web hosting
-- Clean repository layout for source review
+**Is this an official Minecraft product?**
+This is a fan-made project for design purposes. It follows standard web development practices for site creation.
 
----
+**How do I get help if I get stuck?**
+The GitHub community offers many guides on basic web hosting. Search online for "how to host HTML files" if you need specific steps for different hosting platforms.
 
-## Installation
+**Can I use this for a commercial business?**
+Review the Microsoft Brand and Asset Usage Guidelines regarding Minecraft content before using this site for commercial purposes.
 
-Clone or download the repository, then place the files in your web server root or local development folder.
-
-```bash
-git clone https://github.com/jordanyoung2001/iama-minecraft-2026-web.git
-cd iamamc
-```
-
-After cloning, open the HTML files in a browser or serve them through your preferred web host.
-
----
-
-## Usage
-
-For local preview, open the main HTML file directly in a browser or run a simple web server from the project folder.
-
-Example:
-
-```bash
-python -m http.server 8000
-```
-
-Then visit:
-
-```text
-http://localhost:8000
-```
-
-To publish the site, upload the HTML files to your hosting provider and point your domain or subpath to the deployed files.
-
----
-
-## Configuration
-
-This project does not show a dedicated configuration system. Visual or content changes are expected to be made directly in the HTML source.
-
-If you want to customize the site, look for:
-- text content in the page markup
-- links and navigation targets
-- images or embedded assets
-- layout and styling elements in the HTML
-
----
-
-## Requirements
-
-- A web browser for viewing the site
-- HTML-compatible hosting or local preview environment
-- Basic file access for editing and deployment
-- Enough server space to host the website files
-
----
-
-## FAQ
-
-**Is this a desktop app or command-line tool?**  
-No. It is presented as website source code in HTML.
-
-**How do I update the site?**  
-Edit or replace the HTML files in the repository, then deploy the updated version again.
-
-**Where are the settings stored?**  
-No separate settings file is listed in the extracted metadata, so configuration is expected to live in the source files themselves.
-
-**What if something does not display correctly?**  
-Check the browser console, verify file paths, and confirm that all linked assets are available on your host.
-
-**How do I get support?**  
-Review the repository files and project history, or inspect the site source to understand how the pages are assembled.
-
----
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+Keywords: minecraft, web, html, custom-site, local-hosting, design, open-source
